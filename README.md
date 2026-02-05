@@ -1,5 +1,9 @@
 # Tic Tac Toe – Java Console Game
 
+├── src/
+│   └── tictactoe.java
+├── README.md
+
 A turn-based Tic Tac Toe game implemented in Java using 2D arrays and structured game logic.
 
 ## Features
